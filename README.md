@@ -1,43 +1,39 @@
 <div align="center">
-    
+    <img src="public/logo.gif" height="70" alt="Lenster Logo">
     <h1>CRYPTOBANK</h1>
-    <strong align="center">A decentralized bank</strong>
+    <strong align="center">Another way to bank </strong>
 </div>
-<strong>A blockchain App</strong>
+<strong>This is a simple application of the blockchain technology. with some basic functionalities:</strong>
 <br> 
-
 
 **One**
 
-
-Deposit amount must be greater than zero
-
-                   &&
-Deposit amount cannot be greater than 1000 ether
-
+The withdraw function allows users to withdraw ether from their account
 <br>
 
 
 **two**
 
 
+It requires that the amount to withdraw is greater than zero,
+does not exceed 90% of the your available balance(click the balance button to check balance),
+that you have sufficient balance,
+and that you have not made more than 4 withdrawals in the current day.
 
-Withdrawal amount must be greater than zero
 
 <br>
 
 **three**
 
-Withdrawal amount cannot be greater than 1 ether
+The function subtracts the amount withdrawn from the your balance, transfers the ether to the your address, updates the number of withdrawals made by the your today, and emits a Withdrawal event.
+
 <br>
 
-**four**
-
-
-1% fee on withdrawals
 <br>
-# Please test with a sepolia account and also note that we keep improving the functionalities of our Dapp, and the the user esperience also.
-HAVE FUN TESTING!! <br> <br>
+
+# Please test with a goerli account.
+HAVE FUN TESTING!! 
+<br> <br>
 
 <br>
 <br>
@@ -81,8 +77,6 @@ To learn more about [Vite](https://vitejs.dev/), [RainbowKit](https://rainbowkit
 
 - https://optisave.netlify.app
 
-> ## ⭐ Show Your Support
-> If you like this project, do not forget to give ⭐s. So it can get more attention and get more support from the community. Don't underestimate one star, one star you give will convince others to give the project another star.
 
 
 
@@ -90,7 +84,7 @@ To learn more about [Vite](https://vitejs.dev/), [RainbowKit](https://rainbowkit
 
 **Home Page**
 
-![Screenshot (64)](https://user-images.githubusercontent.com/113071405/228479845-ec15aaa8-73cc-4f04-a5a9-885727946a4d.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/113071405/228496415-a54d5cab-6437-4f96-9870-83a4a517f94c.png)
 
 
 
@@ -99,28 +93,31 @@ To learn more about [Vite](https://vitejs.dev/), [RainbowKit](https://rainbowkit
 <br/>
 
 **Rainbow Wallet connect**
-![Screenshot (65)](https://user-images.githubusercontent.com/113071405/228480875-c2dae7a6-6249-4a50-9195-6ae9e56bbee1.png)
 
-
-
-
-
-
-
-
-
+![Screenshot (73)](https://user-images.githubusercontent.com/113071405/228496477-17612f2a-9161-48a8-80e6-6c541f4bb029.png)
 
 <br/>
 
+**Rules of Engagement**
+
+![Screenshot (74)](https://user-images.githubusercontent.com/113071405/228496564-af083560-d410-4cb1-b6a9-a2d6948e0b65.png)
+
+<br/>
+**Bank Section**
+
+![Screenshot (75)](https://user-images.githubusercontent.com/113071405/228497272-9e712239-594a-4637-a806-7495f2ca71bf.png)
+
+<br/>
+
+![Screenshot (76)](https://user-images.githubusercontent.com/113071405/228497226-0a648493-5b51-4df6-82af-33ce43f48075.png)
+
+<br>
 
 
 
 
 
 
-**Project Snapshot**
-
-![Screenshot (66)](https://user-images.githubusercontent.com/113071405/228481022-9dc1512e-676d-44c5-8cfd-e6eb05b2cfac.png)
 ## **Project Website Link**
 
 - https://optimint.netlify.app
@@ -128,9 +125,6 @@ To learn more about [Vite](https://vitejs.dev/), [RainbowKit](https://rainbowkit
 ## **Project Authors**
 
 -Fabulousugo(https://github.com/fabulousugo)<br/>
-Amarannaya(https://github.com/amarannaya)<br/>
-Kosiso98(https://github.com/Kosiso98)<br/>
-David((https://github.com/davkay22))<br/>
 
 
 ## 🤝 Contribute
@@ -183,7 +177,7 @@ Contributions are what make the open source community such an amazing place to b
 
 MIT License
 
-Copyright (c) [2023] [Mind Optimizers]
+Copyright (c) [2023] [Fabulousugo]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
