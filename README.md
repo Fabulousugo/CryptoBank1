@@ -75,7 +75,7 @@ To learn more about [Vite](https://vitejs.dev/), [RainbowKit](https://rainbowkit
 
 ## **Project Website Link**
 
-- https://optisave.netlify.app
+- https://cryptobank-k.netlify.app
 
 
 
@@ -118,10 +118,6 @@ To learn more about [Vite](https://vitejs.dev/), [RainbowKit](https://rainbowkit
 
 
 
-## **Project Website Link**
-<br>
-
--cryptobank-k.netlify.app/
 
 ## **Project Authors**
 
